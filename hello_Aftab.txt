@@ -1,1 +1,2 @@
-this is also for the practise to understand the basic of the git.
+this is also for the practise to understand the basic of the git.git 
+i am learning slowly but will finish it ultimately.
